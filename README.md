@@ -1,3 +1,4 @@
 # Flight-Delays
-A study on flight delays in support of www.kidkit.org, www.kidkit.it 
+We are conducting this analysis as part of a study on flight delays to support www.kidkit.org, www.kidkit.it startup business idea.
+KidKit is thought to be a children's clothing rental service for the holiday period aimed to help families to travel free from luggage.
 As part of the last project in the Data Analytics Nanodegree at Udacity, students are asked to create insightful visualizations to demonstrate findings from their data. In order to support KidKit initiative - a children's clothing rental sercice at vacation destinations so as to allow families sto travel without luggage - aiming at improving passenger's experience and thanks to Udcity we have now discovered a precious dataset consisting information on flight dealys. We believe flight delays are linked to mishandled luggage. This precious dataset can be found at http://stat-computing.org/dataexpo/2009/the-data.html initially taken from https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp The Bureau of Transportation Statistics. 
